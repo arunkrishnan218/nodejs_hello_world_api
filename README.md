@@ -1,5 +1,5 @@
 # nodejs_hello_world_api
-API with node and express jd
+API with node and express js
 
 STEPS TO BE FOLLOWED:-
 ----------------------------
